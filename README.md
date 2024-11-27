@@ -52,6 +52,10 @@ https://github.com/59799517/sq_subsonic_desktop
 ![](img/8.png)
 ![](img/9.png)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=59799517/simple_sq_musuc_plus&type=Date)](https://star-history.com/#59799517/simple_sq_musuc_plus&Date)
+![Alt](https://repobeats.axiom.co/api/embed/ca2487298cfad03b4fb6cf106afe371ff18a5bd1.svg "Repobeats analytics image")
 
 
 
